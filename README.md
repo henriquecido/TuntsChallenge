@@ -79,6 +79,6 @@ Do you want to be part of this project? Click [here](https://github.com/joabehen
 
 ## 📝 License
 
-This project is under license. See the [license](https://github.com/joabehenrique/rtunts-challenge/blob/main/LICENSE.md) file for more details.
+This project is under license. See the [license](https://github.com/joabehenrique/tunts-challenge/blob/main/LICENSE.md) file for more details.
 
 [⬆ Back to top](#TuntsChallenge)<br>
