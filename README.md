@@ -47,7 +47,8 @@ https://docs.google.com/spreadsheets/d/1SKQHuBH1T49my-JT_wNoLcEtZUKSp4vM_GjXvNtz
 To use TuntsChallenge, follow these steps:
 
 ```
-The challenge is based on performing some operations with the data I get from the spreadsheet, such as: student average, their current situation and their grade to pass the final exam.
+The challenge is based on performing some operations with the data I get from the spreadsheet, 
+such as: student average, their current situation and their grade to pass the final exam.
 
 I get the sheet information through the Google Sheets API.
 ```
